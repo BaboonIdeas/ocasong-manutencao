@@ -1,6 +1,6 @@
 // import { useState } from 'react'
 // import viteLogo from '/vite.svg'
-import baboonLogo from './assets/baboon-logo.png'
+// import baboonLogo from './assets/baboon-logo.png'
 import ocasongTemporario from './assets/ocasong-temporario.png'
 import './App.css'
 
